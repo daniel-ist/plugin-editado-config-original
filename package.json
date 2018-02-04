@@ -1,0 +1,43 @@
+{
+  "name": "cordova-plugin-httpd",
+  "version": "0.9.2",
+  "description": "CorHttpd is an plugin with embedded web server into Cordova",
+  "cordova": {
+    "id": "com.rjfun.cordova.httpd",
+    "platforms": [
+      "android",
+      "ios",
+      "osx"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/floatinghotpot/cordova-httpd.git"
+  },
+  "keywords": [
+    "httpd",
+    "web",
+    "server",
+    "http",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-osx"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=2.9"
+    },
+    {
+      "name": "cordova-osx",
+      "version": ">=4.0.0"
+    }
+  ],
+  "author": "Raymond Xie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/floatinghotpot/cordova-httpd/issues"
+  },
+  "homepage": "https://github.com/floatinghotpot/cordova-httpd#readme"
+}
